@@ -9,7 +9,7 @@ This is an ***AI-powered recommendation engine*** for an e-commerce platform tha
 
 The engine’s performance is evaluated using a controlled random sampling strategy to ensure accurate and representative results.
 
-In this recommendation engine, I have used the ****'Amazon Products Sales Dataset 2023'*** dataset from **Kaggle**, specifically the ***'All Appliances.csv'*** which has 8K+ All Appliances Product's Details.
+In this recommendation engine, I have used the **'Amazon Products Sales Dataset 2023'** dataset from **Kaggle**, specifically the **'All Appliances.csv'** which has 8K+ All Appliances Product's Details.
 
 ### The dataset for this recommender system can be downloaded from here:
 
